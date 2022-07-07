@@ -18,8 +18,7 @@ for i in range(nbOfMovies):
     dictMovie['Title'] = soup.find_all('td', {'class': 'titleColumn'})[
         i].find_all('a')[-1].text
 
-    dictMovie['Year'] = soup.find_all('td', {'class': 'titleColumn'})[i].find_all('span',
-                                                                                  {'class': 'secondaryInfo'})[-1].text.replace('(', '').replace(')', '')
+    dictMovie['Year'] = soup.find_all('td', {'class': 'titleColumn'})[i].find_all('span',{'class': 'secondaryInfo'})[-1].text.replace('(', '').replace(')', '')
 
     dictMovie['Url'] = 'https://imdb.com' + \
         soup.find_all('td', {'class': 'titleColumn'})[i].a['href']
@@ -41,7 +40,7 @@ for i in range(nbOfMovies):
 
     movies_array.append(dictMovie)
 
-with open('Top250Movies.csv', 'w', newline="", encoding='utf-8') as f:
+with open('Top250MoviesV2.csv', 'w', newline="", encoding='utf-8') as f:
     cols = ['Title', 'Year', 'Url', 'Genre', 'Director', 'Actors']
     writer = csv.DictWriter(f, fieldnames=cols)
     writer.writeheader()

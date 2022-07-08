@@ -1,0 +1,180 @@
+Name,Movies,Number of Movies
+Frank Darabont,"['Les Évadés', 'La ligne verte']",2
+Francis Ford Coppola,"['Le Parrain', 'Le Parrain, 2ᵉ partie', 'Apocalypse Now']",3
+Christopher Nolan,"['The Dark Knight : Le Chevalier noir', 'Inception', 'Interstellar', 'Le Prestige', 'Memento', 'The Dark Knight Rises', 'Batman Begins']",7
+Sidney Lumet,"['12 Hommes en colère', 'Network - Main basse sur la TV']",2
+Steven Spielberg,"['La liste de Schindler', 'Il faut sauver le soldat Ryan', ""Les Aventuriers de l'arche perdue"", 'Indiana Jones et la dernière croisade', 'Jurassic Park', 'Arrête-moi si tu peux', 'Les Dents de la mer']",7
+Peter Jackson,"['Le Seigneur des anneaux : Le Retour du roi', ""Le Seigneur des anneaux : La Communauté de l'anneau"", 'Le Seigneur des anneaux : Les Deux Tours']",3
+Quentin Tarantino,"['Pulp Fiction', 'Django Unchained', 'Inglourious Basterds', 'Reservoir Dogs', 'Kill Bill: Volume I']",5
+Sergio Leone,"['Le Bon, la brute, le truand', ""Il était une fois dans l'Ouest"", 'Il était une fois en Amérique', '...et pour quelques dollars de plus']",4
+Robert Zemeckis,"['Forrest Gump', 'Retour vers le futur']",2
+David Fincher,"['Fight Club', 'Seven', 'Gone Girl']",3
+Irvin Kershner,"[""L'Empire contre-attaque""]",1
+Lana Wachowski,['Matrix'],1
+Lilly Wachowski,['Matrix'],1
+Martin Scorsese,"['Les affranchis', 'Les infiltrés', 'Taxi Driver', 'Le loup de Wall Street', 'Casino', 'Shutter Island', 'Raging Bull']",7
+Milos Forman,"[""Vol au-dessus d'un nid de coucou"", 'Amadeus']",2
+Akira Kurosawa,"['Les 7 Samouraïs', ""Entre le ciel et l'enfer"", 'Vivre', 'Ran', 'Le garde du corps', 'Rashomon', 'Dersou Ouzala']",7
+Frank Capra,"['La vie est belle', 'Mr. Smith au sénat', 'New York - Miami']",3
+Jonathan Demme,['Le Silence des agneaux'],1
+Fernando Meirelles,['La cité de Dieu'],1
+Kátia Lund,['La cité de Dieu'],1
+Roberto Benigni,['La vie est belle'],1
+George Lucas,['La guerre des étoiles'],1
+James Cameron,"['Terminator 2 : Le jugement dernier', 'Aliens : Le Retour', 'Terminator']",3
+Hayao Miyazaki,"['Le voyage de Chihiro', 'Princesse Mononoké', 'Le château ambulant', 'Mon voisin Totoro']",4
+Alfred Hitchcock,"['Psychose', 'Fenêtre sur cour', 'La mort aux trousses', 'Sueurs froides', 'Le crime était presque parfait', 'Rebecca']",6
+Roman Polanski,"['Le pianiste', 'Chinatown']",2
+Luc Besson,['Léon'],1
+Bong Joon Ho,"['Parasite', 'Memories of Murder']",2
+Roger Allers,['Le Roi Lion'],1
+Rob Minkoff,['Le Roi Lion'],1
+Ridley Scott,"['Gladiator', 'Alien - Le 8ème passager', 'Blade Runner']",3
+Tony Kaye,['American History X'],1
+Bryan Singer,['Usual Suspects'],1
+Michael Curtiz,['Casablanca'],1
+Damien Chazelle,['Whiplash'],1
+Joseph Kosinski,['Top Gun: Maverick'],1
+Olivier Nakache,['Intouchables'],1
+Éric Toledano,['Intouchables'],1
+Charles Chaplin,"['Les temps modernes', 'Les lumières de la ville', 'Le Dictateur', 'Le Kid', ""La ruée vers l'or""]",5
+Masaki Kobayashi,['Harakiri'],1
+Isao Takahata,['Le tombeau des lucioles'],1
+Giuseppe Tornatore,['Cinéma Paradiso'],1
+Andrew Stanton,"['WALL·E', 'Le Monde de Nemo']",2
+Florian Henckel von Donnersmarck,['La vie des autres'],1
+Billy Wilder,"['Boulevard du Crépuscule', 'Témoin à charge', 'Assurance sur la mort', 'La garçonnière', ""Certains l'aiment chaud""]",5
+Stanley Kubrick,"['Les sentiers de la gloire', 'Shining', ""Dr. Folamour ou : Comment j'ai appris à ne plus m'en faire et à aimer la bombe !"", ""2001 : L'Odyssée de l'espace"", 'Orange mécanique', 'Full Metal Jacket', 'Barry Lyndon']",7
+Anthony Russo,"['Avengers: Infinity War', 'Avengers: Endgame']",2
+Joe Russo,"['Avengers: Infinity War', 'Avengers: Endgame']",2
+Sam Mendes,"['American Beauty', '1917']",2
+Bob Persichetti,['Spider-Man: New Generation'],1
+Peter Ramsey,['Spider-Man: New Generation'],1
+Rodney Rothman,['Spider-Man: New Generation'],1
+Park Chan-wook,"['Old Boy', 'Mademoiselle']",2
+Todd Phillips,['Joker'],1
+Mel Gibson,"['Braveheart', 'Tu ne tueras point']",2
+John Lasseter,['Toy Story'],1
+Lee Unkrich,"['Coco', 'Toy Story 3', 'Le Monde de Nemo', 'Monstres & Cie']",4
+Adrian Molina,['Coco'],1
+Wolfgang Petersen,['Le Bateau'],1
+Gus Van Sant,['Will Hunting'],1
+Darren Aronofsky,['Requiem for a Dream'],1
+Makoto Shinkai,['Your Name.'],1
+Stanley Donen,['Chantons sous la pluie'],1
+Gene Kelly,['Chantons sous la pluie'],1
+Rajkumar Hirani,['3 Idiots'],1
+Richard Marquand,['Le Retour du Jedi'],1
+Michel Gondry,['Eternal Sunshine of the Spotless Mind'],1
+Nadine Labaki,['Capharnaüm'],1
+Orson Welles,['Citizen Kane'],1
+David Lean,"[""Lawrence d'Arabie"", 'Le pont de la rivière Kwaï']",2
+Thomas Vinterberg,['La chasse'],1
+Fritz Lang,"['M le maudit', 'Metropolis']",2
+Jean-Pierre Jeunet,"[""Le fabuleux destin d'Amélie Poulain""]",1
+Elem Klimov,['Requiem pour un massacre - Va et regarde'],1
+Brian De Palma,['Scarface'],1
+George Roy Hill,"[""L'Arnaque""]",1
+Robert Mulligan,['Du silence et des ombres...'],1
+Pete Docter,"['Là-haut', 'Vice-versa', 'Monstres & Cie']",3
+Bob Peterson,['Là-haut'],1
+Curtis Hanson,['L.A. Confidential'],1
+Michael Mann,['Heat'],1
+Thomas Kail,['Hamilton'],1
+Asghar Farhadi,['Une séparation'],1
+Guy Ritchie,"['Snatch - Tu braques ou tu raques', 'Arnaques, crimes et botanique']",2
+John McTiernan,['Piège de cristal'],1
+Denis Villeneuve,"['Incendies', 'Prisoners']",2
+Vittorio De Sica,['Voleur de bicyclette'],1
+Aamir Khan,['Taare Zameen Par'],1
+Amole Gupte,['Taare Zameen Par'],1
+Oliver Hirschbiegel,['La chute'],1
+Jon Watts,['Spider-Man: No Way Home'],1
+Nitesh Tiwari,['Dangal'],1
+Florian Zeller,['The Father'],1
+Joseph L Mankiewicz,['Ève...'],1
+Peter Farrelly,['Green Book: Sur les routes du Sud'],1
+Stanley Kramer,['Jugement à Nuremberg'],1
+Clint Eastwood,"['Impitoyable', 'Gran Torino', 'Million Dollar Baby']",3
+Guillermo del Toro,['Le labyrinthe de Pan'],1
+Paul Thomas Anderson,['There Will Be Blood'],1
+M Night Shyamalan,['Sixième sens'],1
+Ron Howard,"[""Un homme d'exception"", 'Rush']",2
+Peter Weir,"['The Truman Show', 'Le Cercle des poètes disparus']",2
+Terry Gilliam,['Monty Python : Sacré Graal !'],1
+Terry Jones,"['Monty Python : Sacré Graal !', 'Monty Python : La Vie de Brian']",2
+Dan Kwan,['Everything Everywhere All at Once'],1
+Daniel Scheinert,['Everything Everywhere All at Once'],1
+John Huston,['Le Trésor de la Sierra Madre'],1
+John Sturges,['La Grande Évasion'],1
+Ethan Coen,"['No Country for Old Men', 'Fargo', 'The Big Lebowski']",3
+Joel Coen,"['No Country for Old Men', 'Fargo', 'The Big Lebowski']",3
+David Lynch,['Elephant Man'],1
+Victor Fleming,"['Autant en emporte le vent', ""Le magicien d'Oz""]",2
+George Cukor,"['Autant en emporte le vent', ""Le magicien d'Oz""]",2
+Sam Wood,['Autant en emporte le vent'],1
+James McTeigue,['V pour vendetta'],1
+John Carpenter,['The Thing'],1
+Ronnie Del Carmen,['Vice-versa'],1
+Juan José Campanella,['Dans ses yeux'],1
+Martin McDonagh,['3 Billboards: Les panneaux de la vengeance'],1
+Danny Boyle,['Trainspotting'],1
+Gavin O'Connor,['Warrior'],1
+Elia Kazan,['Sur les quais...'],1
+Carol Reed,['Le troisième homme'],1
+Majid Majidi,['Les enfants du ciel'],1
+William Wyler,"['Ben-Hur', 'Les Plus Belles Années de notre vie']",2
+Steve McQueen,['12 Years a Slave'],1
+Clyde Bruckman,['Le mécano de la Générale'],1
+Buster Keaton,"['Le mécano de la Générale', 'Sherlock Junior']",2
+Richard Linklater,"['Before Sunrise', 'Before Sunset']",2
+Ingmar Bergman,"['Les fraises sauvages', 'Le septième sceau', 'Persona']",3
+David Yates,['Harry Potter et les Reliques de la Mort : partie 2'],1
+Michael Cimino,"[""Voyage au bout de l'enfer""]",1
+Jim Sheridan,['Au nom du père'],1
+Wes Anderson,['The Grand Budapest hotel'],1
+Henri-Georges Clouzot,['Le salaire de la peur'],1
+Sergio Pablos,['La légende de Klaus'],1
+Carlos Martínez López,['La légende de Klaus'],1
+Lenny Abrahamson,['Room'],1
+Damián Szifron,['Les Nouveaux Sauvages'],1
+George Miller,['Mad Max: Fury Road'],1
+Dean De,['Dragons'],1
+Blois,['Dragons'],1
+Chris Sanders,['Dragons'],1
+Adam Elliot,['Mary et Max.'],1
+David Silverman,['Monstres & Cie'],1
+Carl Theodor Dreyer,"[""La passion de Jeanne d'Arc""]",1
+Terry George,['Hôtel Rwanda'],1
+Yasujirô Ozu,['Voyage à Tokyo'],1
+Satyajit Ray,['La complainte du sentier'],1
+John G Avildsen,['Rocky'],1
+Oliver Stone,['Platoon'],1
+James Mangold,"[""Le Mans '66"", 'Logan']",2
+Rob Reiner,['Stand by Me : Compte sur moi'],1
+Tom McCarthy,['Spotlight'],1
+Sean Penn,['Into the Wild'],1
+Mervyn Le,"[""Le magicien d'Oz""]",1
+Roy,"[""Le magicien d'Oz""]",1
+Brad Bird,"['Ratatouille', 'Les Indestructibles']",2
+Jan Pinkava,['Ratatouille'],1
+Harold Ramis,['Un jour sans fin'],1
+William Friedkin,"[""L'Exorciste""]",1
+Ernst Lubitsch,['Jeux dangereux'],1
+John Ford,['Les raisins de la colère'],1
+Gillo Pontecorvo,"[""La bataille d'Alger""]",1
+Lasse Hallström,['Hatchi'],1
+Stuart Rosenberg,['Luke la main froide'],1
+Alejandro G Iñárritu,['Amours chiennes'],1
+Gore Verbinski,['Pirates des Caraïbes : La malédiction du Black Pearl'],1
+Mathieu Kassovitz,['La Haine'],1
+François Truffaut,['Les Quatre Cents Coups'],1
+Cagan Irmak,['Mon père et mon fils'],1
+Robert Wise,['La mélodie du bonheur'],1
+TJ Gnanavel,['Jai Bhim'],1
+Ron Clements,['Aladdin'],1
+John Musker,['Aladdin'],1
+Richard Attenborough,['Gandhi'],1
+Tate Taylor,['La couleur des sentiments'],1
+Gary Trousdale,['La Belle et la Bête'],1
+Kirk Wise,['La Belle et la Bête'],1
